@@ -1,0 +1,41 @@
+D:\học tập\kỳ 5\DATABASE\Đồ Án Thực Hành\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe.config
+D:\học tập\kỳ 5\DATABASE\Đồ Án Thực Hành\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe
+D:\học tập\kỳ 5\DATABASE\Đồ Án Thực Hành\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.pdb
+D:\học tập\kỳ 5\DATABASE\Đồ Án Thực Hành\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.AssemblyReference.cache
+D:\học tập\kỳ 5\DATABASE\Đồ Án Thực Hành\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.SuggestedBindingRedirects.cache
+D:\học tập\kỳ 5\DATABASE\Đồ Án Thực Hành\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Form1.resources
+D:\học tập\kỳ 5\DATABASE\Đồ Án Thực Hành\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Properties.Resources.resources
+D:\học tập\kỳ 5\DATABASE\Đồ Án Thực Hành\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.GenerateResource.cache
+D:\học tập\kỳ 5\DATABASE\Đồ Án Thực Hành\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.CoreCompileInputs.cache
+D:\học tập\kỳ 5\DATABASE\Đồ Án Thực Hành\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.exe
+D:\học tập\kỳ 5\DATABASE\Đồ Án Thực Hành\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.pdb
+D:\học tập\kỳ 5\DATABASE\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe.config
+D:\học tập\kỳ 5\DATABASE\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe
+D:\học tập\kỳ 5\DATABASE\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.pdb
+D:\học tập\kỳ 5\DATABASE\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.AssemblyReference.cache
+D:\học tập\kỳ 5\DATABASE\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.SuggestedBindingRedirects.cache
+D:\học tập\kỳ 5\DATABASE\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Form1.resources
+D:\học tập\kỳ 5\DATABASE\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Properties.Resources.resources
+D:\học tập\kỳ 5\DATABASE\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.GenerateResource.cache
+D:\học tập\kỳ 5\DATABASE\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.CoreCompileInputs.cache
+D:\học tập\kỳ 5\DATABASE\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.exe
+D:\học tập\kỳ 5\DATABASE\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.pdb
+D:\học tập\kỳ 5\DATABASE\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Login.resources
+D:\học tập\kỳ 5\DATABASE\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.menu.resources
+D:\học tập\kỳ 5\DATABASE\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Manager.resources
+D:\học tập\kỳ 5\DATABASE\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.statistical.resources
+D:\Đồ án DATABASE nhóm 73\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe.config
+D:\Đồ án DATABASE nhóm 73\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.exe
+D:\Đồ án DATABASE nhóm 73\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\bin\Debug\QL_QuanAn.pdb
+D:\Đồ án DATABASE nhóm 73\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.AssemblyReference.cache
+D:\Đồ án DATABASE nhóm 73\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.SuggestedBindingRedirects.cache
+D:\Đồ án DATABASE nhóm 73\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Form1.resources
+D:\Đồ án DATABASE nhóm 73\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Login.resources
+D:\Đồ án DATABASE nhóm 73\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Manager.resources
+D:\Đồ án DATABASE nhóm 73\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Menu.resources
+D:\Đồ án DATABASE nhóm 73\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.Properties.Resources.resources
+D:\Đồ án DATABASE nhóm 73\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.statistical.resources
+D:\Đồ án DATABASE nhóm 73\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.GenerateResource.cache
+D:\Đồ án DATABASE nhóm 73\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.csproj.CoreCompileInputs.cache
+D:\Đồ án DATABASE nhóm 73\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.exe
+D:\Đồ án DATABASE nhóm 73\Đồ án DATABASE nhóm 7\QL_QuanAn\QL_QuanAn\obj\Debug\QL_QuanAn.pdb
